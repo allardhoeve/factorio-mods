@@ -9,6 +9,10 @@
             "enabled": "true"
         },
         {
+            "name": "PickerExtended",
+            "enabled": "true"
+        },
+        {
             "name": "what-is-it-used-for",
             "enabled": "true"
         },
