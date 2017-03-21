@@ -177,10 +177,6 @@
             "enabled": "true"
         },
         {
-            "name": "research-queue",
-            "enabled": "true"
-        },
-        {
             "name": "ShinyBob",
             "enabled": "true"
         }
