@@ -1,0 +1,188 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "what-is-it-used-for",
+            "enabled": "true"
+        },
+        {
+            "name": "advanced-logistics-system",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "AutoTrash",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobinserters",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtechsave",
+            "enabled": "false"
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "Crafting_Speed_Research",
+            "enabled": "true"
+        },
+        {
+            "name": "Flow Control",
+            "enabled": "true"
+        },
+        {
+            "name": "Foreman",
+            "enabled": "true"
+        },
+        {
+            "name": "ItemCount",
+            "enabled": "true"
+        },
+        {
+            "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "launch-control",
+            "enabled": "true"
+        },
+        {
+            "name": "long-reach",
+            "enabled": "true"
+        },
+        {
+            "name": "quickug",
+            "enabled": "true"
+        },
+        {
+            "name": "ScoreExtended",
+            "enabled": "true"
+        },
+        {
+            "name": "ShuttleTrain",
+            "enabled": "true"
+        },
+        {
+            "name": "SmallFixes",
+            "enabled": "true"
+        },
+        {
+            "name": "Squeak Through",
+            "enabled": "true"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "Warehousing",
+            "enabled": "true"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobvehicleequipment",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobgreenhouse",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobrevamp",
+            "enabled": "true"
+        },
+        {
+            "name": "usefulbyproducts",
+            "enabled": "true"
+        },
+        {
+            "name": "add-loader",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "hacked-splitters",
+            "enabled": "true"
+        },
+        {
+            "name": "Orbital Ion Cannon",
+            "enabled": "true"
+        },
+        {
+            "name": "research-queue",
+            "enabled": "true"
+        },
+        {
+            "name": "ShinyBob",
+            "enabled": "true"
+        }
+    ]
+}
