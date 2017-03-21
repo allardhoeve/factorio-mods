@@ -17,6 +17,10 @@
             "enabled": "true"
         },
         {
+            "name": "auto-research",
+            "enabled": "true"
+        },
+        {
             "name": "autofill",
             "enabled": "true"
         },
@@ -94,6 +98,10 @@
         },
         {
             "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "upgrade-planner",
             "enabled": "true"
         },
         {
